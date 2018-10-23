@@ -28,7 +28,7 @@ class ViewController: UIViewController {
         print("hiiiiddsddaa")
     }
     func new3(){
-        
+        print("hello")
     }
     
 }
