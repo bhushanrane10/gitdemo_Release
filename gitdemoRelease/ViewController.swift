@@ -23,5 +23,9 @@ class ViewController: UIViewController {
         //New2
         print("new2 swift hello")
     }
+    func printmsg()
+    {
+        print("hiiii")
+    }
 }
 
