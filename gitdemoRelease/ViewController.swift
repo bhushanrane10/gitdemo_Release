@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     func new2()
     {
         //New2
-        print("new2 swift")
+        print("new2 swift hello")
     }
 }
 
