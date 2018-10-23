@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
     func new1()
     {
-        print("new1")
+        print("new1vcvvxv")
     }
 
 }
