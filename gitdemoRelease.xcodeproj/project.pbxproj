@@ -14,6 +14,7 @@
 		B2A90BFF217F33C700E70990 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2A90BFD217F33C700E70990 /* LaunchScreen.storyboard */; };
 		B2A90C0A217F33C700E70990 /* gitdemoReleaseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2A90C09217F33C700E70990 /* gitdemoReleaseTests.swift */; };
 		B2A90C15217F33C700E70990 /* gitdemoReleaseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2A90C14217F33C700E70990 /* gitdemoReleaseUITests.swift */; };
+		B2A90C23218062AF00E70990 /* fileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2A90C22218062AF00E70990 /* fileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B2A90C10217F33C700E70990 /* gitdemoReleaseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitdemoReleaseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2A90C14217F33C700E70990 /* gitdemoReleaseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitdemoReleaseUITests.swift; sourceTree = "<group>"; };
 		B2A90C16217F33C700E70990 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B2A90C22218062AF00E70990 /* fileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				B2A90BFB217F33C700E70990 /* Assets.xcassets */,
 				B2A90BFD217F33C700E70990 /* LaunchScreen.storyboard */,
 				B2A90C00217F33C700E70990 /* Info.plist */,
+				B2A90C22218062AF00E70990 /* fileViewController.swift */,
 			);
 			path = gitdemoRelease;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				B2A90BF7217F33C700E70990 /* ViewController.swift in Sources */,
 				B2A90BF5217F33C700E70990 /* AppDelegate.swift in Sources */,
+				B2A90C23218062AF00E70990 /* fileViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
